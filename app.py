@@ -104,5 +104,3 @@ def result():
 
 
     return jsonify(dic)
-
-app.run(debug=True,port=33507)
